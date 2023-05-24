@@ -1,0 +1,9 @@
+﻿  car-game.cpp
+C:\Users\Sukhman\Desktop\car-game\car-game\car-game.cpp(136,28): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Sukhman\Desktop\car-game\car-game\car-game.cpp(151,28): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Generating code
+  0 of 345 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  car-game.vcxproj -> C:\Users\Sukhman\Desktop\car-game\x64\Release\car-game.exe

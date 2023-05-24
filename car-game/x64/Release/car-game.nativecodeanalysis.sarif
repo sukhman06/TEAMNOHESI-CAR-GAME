@@ -1,0 +1,157 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: '_getch'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sukhman/Desktop/car-game/car-game/car-game.cpp"
+                },
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 2,
+                  "endLine": 85,
+                  "endColumn": 8
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "leaderboard",
+                  "decoratedName": "?leaderboard@@YAXV?$vector@UPlayer@@V?$allocator@UPlayer@@@std@@@std@@H@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: '_getch'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sukhman/Desktop/car-game/car-game/car-game.cpp"
+                },
+                "region": {
+                  "startLine": 316,
+                  "startColumn": 5,
+                  "endLine": 316,
+                  "endColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mainMenu",
+                  "decoratedName": "?mainMenu@@YAXH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: '_getch'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sukhman/Desktop/car-game/car-game/car-game.cpp"
+                },
+                "region": {
+                  "startLine": 350,
+                  "startColumn": 2,
+                  "endLine": 350,
+                  "endColumn": 8
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "instructions",
+                  "decoratedName": "?instructions@@YAXH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: '_getch'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sukhman/Desktop/car-game/car-game/car-game.cpp"
+                },
+                "region": {
+                  "startLine": 373,
+                  "startColumn": 2,
+                  "endLine": 373,
+                  "endColumn": 8
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "play",
+                  "decoratedName": "?play@@YAXH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32216.1",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/Sukhman/Desktop/car-game/car-game/car-game.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f7aef1d796bbd85799d365ee9f168cd75d9cffb63304b4f08627d42f7b4c4e10"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/sukhman/desktop/car-game/car-game/concol.h"
+          },
+          "hashes": {
+            "sha-256": "6257818a92776643599ec1f83c13c36fee1995ca534bd9ad830956074de5d6e1"
+          }
+        }
+      ]
+    }
+  ]
+}

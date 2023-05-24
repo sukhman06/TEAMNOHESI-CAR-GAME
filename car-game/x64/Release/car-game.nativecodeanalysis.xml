@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sukhman\Desktop\car-game\car-game\</FILEPATH>
+      <FILENAME>car-game.cpp</FILENAME>
+      <LINE>85</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: '_getch'.</DESCRIPTION>
+    <FUNCTION>leaderboard</FUNCTION>
+    <DECORATED>?leaderboard@@YAXV?$vector@UPlayer@@V?$allocator@UPlayer@@@std@@@std@@H@Z</DECORATED>
+    <FUNCLINE>74</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sukhman\Desktop\car-game\car-game\</FILEPATH>
+      <FILENAME>car-game.cpp</FILENAME>
+      <LINE>316</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: '_getch'.</DESCRIPTION>
+    <FUNCTION>mainMenu</FUNCTION>
+    <DECORATED>?mainMenu@@YAXH@Z</DECORATED>
+    <FUNCLINE>281</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sukhman\Desktop\car-game\car-game\</FILEPATH>
+      <FILENAME>car-game.cpp</FILENAME>
+      <LINE>350</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: '_getch'.</DESCRIPTION>
+    <FUNCTION>instructions</FUNCTION>
+    <DECORATED>?instructions@@YAXH@Z</DECORATED>
+    <FUNCLINE>341</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sukhman\Desktop\car-game\car-game\</FILEPATH>
+      <FILENAME>car-game.cpp</FILENAME>
+      <LINE>373</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: '_getch'.</DESCRIPTION>
+    <FUNCTION>play</FUNCTION>
+    <DECORATED>?play@@YAXH@Z</DECORATED>
+    <FUNCLINE>355</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
